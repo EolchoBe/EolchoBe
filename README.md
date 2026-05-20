@@ -1,4 +1,8 @@
-## Hi there 👋
+<!-- ## Hi there 👋-->
+
+# 🦖 Welcome to EolchoBe's GitHub!
+
+[![Gitanimals](https://gitanimals.org)](https://gitanimals.org)
 
 <!--
 **EolchoBe/EolchoBe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
